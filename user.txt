@@ -1,0 +1,21 @@
+admin, admin123, System Administrator, 1, false
+hr, hr123, Human Resource Officer, 0, false
+pay, pay123, Payroll Officer, 0, false
+dep, department123, Department Manager, 0, false
+hr, hr123, Human Resource Officer, 0, false
+employee123, employee123, Employee, 1, true
+em, em123, Employee, 0, true
+manager, manager1234, Department Manager, 1, false
+em123, em123, Employee, 0, false
+wewe, wewe, Employee, 0, false
+qwwq, wqqw, Employee, 0, false
+emm, emm, Employee, 0, false
+emm123, emm123, Employee, 0, false
+em12, em12, Employee, 0, false
+hrr, hrr, Human Resource Officer, 0, false
+em3, em3, Employee, 0, false
+weew, Weew123$, Employee, 0, false
+usernmae, Password123$, Department Manager, 0, false
+username, Password123$, Human Resource Officer, 0, false
+usernamee, Password123$, Human Resource Officer, 0, false
+newem,Newem123$,Employee,0,false
